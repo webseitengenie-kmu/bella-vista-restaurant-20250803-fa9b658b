@@ -1,0 +1,122 @@
+[
+  {
+    "sectionId": "hero",
+    "type": "split-content",
+    "headline": "Italienische Familientradition trifft Münchner Herzlichkeit",
+    "subheadline": "Seit drei Generationen verwöhnen wir Sie mit authentischen Rezepten aus Nonna's Küche – zubereitet mit frischen regionalen Zutaten in gemütlicher Atmosphäre",
+    "content": {
+      "items": [
+        {
+          "title": "Italienische Genussmomente im Herzen Münchens",
+          "description": "Starke, emotionale Headline; Subheadline mit Familien- und Premiumanspruch; primäre und sekundäre CTAs prominent und barrierefrei; Visual als hochwertige Illustration oder animiertes Pattern für italienisches Flair; Responsive und mit Parallax/Gradient-Effekt für visuelle Tiefe; Touch-große CTAs.",
+          "icon": "🍝"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Tisch reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "services",
+    "type": "grid-3col",
+    "headline": "Unsere italienischen Leidenschaften für Sie",
+    "subheadline": "Von authentischen Familienrezepten bis zu unvergesslichen Events – entdecken Sie, wie wir italienische Lebensfreude in jeden Moment bringen",
+    "content": {
+      "items": [
+        {
+          "icon": "🍽️",
+          "title": "À la Carte Restaurant",
+          "description": "Genießen Sie unsere traditionellen Familienrezepte aus drei Generationen in gemütlicher Atmosphäre. Jeden Tag frisch zubereitet mit regionalen Zutaten."
+        },
+        {
+          "icon": "🎉",
+          "title": "Private Events & Feiern",
+          "description": "Ihr besonderer Anlass verdient den perfekten Rahmen. Wir gestalten unvergessliche Momente für Ihre Familie und Freunde mit authentisch italienischem Flair."
+        },
+        {
+          "icon": "🚚",
+          "title": "Catering Service",
+          "description": "Bringen Sie Italien zu sich nach Hause oder ins Büro. Unsere köstlichen Gerichte machen jede Veranstaltung zu einem kulinarischen Erlebnis."
+        },
+        {
+          "icon": "👨‍🍳",
+          "title": "Kochkurse & Workshops",
+          "description": "Lernen Sie die Geheimnisse unserer Nonna kennen! In unseren Kochkursen teilen wir die Kunst der authentischen italienischen Küche mit Ihnen."
+        },
+        {
+          "icon": "🍷",
+          "title": "Weinverkostungen",
+          "description": "Entdecken Sie erlesene italienische Weine in geselliger Runde. Unsere Sommeliers führen Sie durch die Vielfalt italienischer Weinkultur."
+        }
+      ]
+    },
+    "cta": {
+      "text": "Jetzt reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "about",
+    "type": "timeline-split",
+    "headline": "Drei Generationen, eine Leidenschaft",
+    "subheadline": "Die Geschichte einer italienischen Familie, die ihre Liebe zur authentischen Küche nach Deutschland brachte",
+    "content": {
+      "items": [
+        {
+          "title": "1952 - Der Traum beginnt",
+          "description": "Nonna Maria verlässt ihr kleines Dorf in der Toskana mit einem Koffer voller Familienrezepte und dem Traum von einem besseren Leben. In Deutschland eröffnet sie ihr erstes kleines Lokal.",
+          "icon": "🇮🇹"
+        },
+        {
+          "title": "1978 - Die Tradition wächst",
+          "description": "Sohn Giuseppe übernimmt das Restaurant und erweitert es um die große Terrasse. Die handgemachte Pasta und Nonnas Geheimrezepte machen Bella Vista zum Geheimtipp der Stadt.",
+          "icon": "👨‍🍳"
+        },
+        {
+          "title": "2001 - Moderne trifft Tradition",
+          "description": "Marco, Giuseppes Sohn, bringt frischen Wind ins Restaurant. Mit regionalen Bio-Zutaten und modernem Service bleibt die Seele italienisch, der Anspruch wird höher.",
+          "icon": "🌿"
+        },
+        {
+          "title": "Heute - Amore auf dem Teller",
+          "description": "Drei Generationen, eine Mission: Jeden Gast wie Familie zu behandeln und die Liebe zur italienischen Küche mit jedem Gericht zu teilen. Benvenuti alla famiglia!",
+          "icon": "❤️"
+        }
+      ],
+      "paragraphs": [
+        "Was als mutiger Traum einer jungen Frau aus der Toskana begann, ist heute eine lebendige Familientradition. Nonna Marias handgeschriebene Rezepte hängen noch immer gerahmt in unserer Küche – sie sind das Herz unseres Restaurants.",
+        "Bei uns wird nicht nur gekocht, sondern gelebt. Jede Zutat wird mit Bedacht ausgewählt, jedes Gericht mit Amore zubereitet. Unsere Gäste spüren diese Leidenschaft – sie kommen als Besucher und gehen als Teil unserer großen italienischen Familie."
+      ],
+      "testimonial": {
+        "quote": "La famiglia è tutto – die Familie ist alles. Diese Weisheit meiner Nonna lebt in jedem Gericht, das unsere Küche verlässt.",
+        "author": "Marco Rossi",
+        "role": "Küchenchef & Inhaber in 3. Generation"
+      }
+    },
+    "cta": {
+      "text": "Tisch reservieren",
+      "action": "book-now"
+    }
+  },
+  {
+    "sectionId": "contact",
+    "type": "form-section",
+    "headline": "Reservieren Sie Ihren Tisch für ein unvergessliches Geschmackserlebnis",
+    "subheadline": "Lassen Sie sich von drei Generationen italienischer Kochkunst verwöhnen. Kontaktieren Sie uns für Ihre Reservierung oder Anfrage.",
+    "content": {
+      "items": [
+        {
+          "title": "Ihre Reservierung",
+          "description": "**Kontaktformular**\n\n**Name*** (Pflichtfeld)\n[Eingabefeld für vollständigen Namen]\n\n**E-Mail-Adresse*** (Pflichtfeld)\n[Eingabefeld für E-Mail]\n\n**Telefon*** (Pflichtfeld)\n[Eingabefeld für Telefonnummer]\n\n**Ihre Nachricht*** (Pflichtfeld)\n[Textbereich für Reservierungswünsche, Personenanzahl, Datum, Uhrzeit oder besondere Anlässe]\n\n---\n\n**Datenschutzhinweis**\nIhre Daten werden vertraulich behandelt und ausschließlich für die Bearbeitung Ihrer Anfrage verwendet. Weitere Informationen finden Sie in unserer Datenschutzerklärung.\n\n---\n\n**Kontaktinformationen**\n\n📍 **Adresse**\nBella Vista Restaurant\nMusterstraße 123\n12345 Musterstadt\n\n📞 **Telefon**\n+49 (0) 123 456789\n\n✉️ **E-Mail**\ninfo@bellavista-restaurant.de\n\n🕐 **Öffnungszeiten**\nMontag - Donnerstag: 17:00 - 23:00 Uhr\nFreitag - Samstag: 17:00 - 24:00 Uhr\nSonntag: 12:00 - 22:00 Uhr\n\n---\n\n**Folgen Sie uns**\n🌐 Facebook | Instagram | Google Maps",
+          "icon": "contact-form"
+        }
+      ]
+    },
+    "cta": {
+      "text": "Jetzt reservieren",
+      "action": "contact"
+    }
+  }
+]
